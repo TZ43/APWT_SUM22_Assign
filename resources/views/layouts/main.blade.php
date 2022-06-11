@@ -1,0 +1,9 @@
+<html>
+    <body>
+        @include('includes.navigation')
+        <br>
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
